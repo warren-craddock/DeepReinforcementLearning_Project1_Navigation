@@ -15,7 +15,16 @@ The action space is 4 dimensional:
 
 ## Getting Started
 
-All dependencies should be included in this repository, though it has only been tested on MacOS X.
+1. Follow [Udacity's instructions for installing dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies).
+
+2. Download the Banana environment by following the link appropriate for your platform:
+
+Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+
+Then, unzip the file into root of this repository.
 
 ## Instructions
 
